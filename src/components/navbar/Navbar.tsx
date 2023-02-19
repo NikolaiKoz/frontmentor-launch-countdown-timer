@@ -4,6 +4,9 @@ function Navbar() {
     return (
       <div className="App">
       <button className="button">Haz clic aquí</button>
+      <button className="button">Haz clic aquí</button>
+      <button className="button">Haz clic aquí</button>
+      <button className="button">Haz clic aquí</button>
       </div>
     );
   }
