@@ -1,9 +1,12 @@
-$primary-color: #2196f3;
+//BASE
 
-.button {
-  background-color: $primary-color;
-  color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-}
+@import './base/reset';
+@import './base/typography';
+
+//UTILITIES
+
+@import './utilities/colors';
+@import './utilities/variables';
+@import './utilities/mixins';
+
+//COMPONENTS
