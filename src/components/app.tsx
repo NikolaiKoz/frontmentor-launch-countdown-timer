@@ -5,6 +5,8 @@ function App () {
         <span className="App">Hello world asdasdas</span>
         <span className="App">Hello world asdasdas</span>
         <span className="App">Hello world asdasdas</span>
+        <span className="App">Hello world asdasdas</span>
+        <span className="App">Hello world asdasdas</span>
     )
 }
 
