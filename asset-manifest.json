@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/frontmentor-launch-countdown-timer/static/css/main.c574d8ea.css",
+    "main.js": "/frontmentor-launch-countdown-timer/static/js/main.3b37045c.js",
+    "static/js/787.1fa166fb.chunk.js": "/frontmentor-launch-countdown-timer/static/js/787.1fa166fb.chunk.js",
+    "static/media/bg-stars.svg": "/frontmentor-launch-countdown-timer/static/media/bg-stars.166881a1c03d6b1239f5.svg",
+    "static/media/pattern-hills.svg": "/frontmentor-launch-countdown-timer/static/media/pattern-hills.815d688fd937623063b5.svg",
+    "index.html": "/frontmentor-launch-countdown-timer/index.html",
+    "main.c574d8ea.css.map": "/frontmentor-launch-countdown-timer/static/css/main.c574d8ea.css.map",
+    "main.3b37045c.js.map": "/frontmentor-launch-countdown-timer/static/js/main.3b37045c.js.map",
+    "787.1fa166fb.chunk.js.map": "/frontmentor-launch-countdown-timer/static/js/787.1fa166fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c574d8ea.css",
+    "static/js/main.3b37045c.js"
+  ]
+}
