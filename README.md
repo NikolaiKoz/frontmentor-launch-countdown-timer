@@ -1,46 +1,49 @@
-# Getting Started with Create React App
+# Launch countdown timer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a React project that displays a countdown timer that shows how much time is left until the end of the year.
 
-## Available Scripts
+## Requirements
+Before you can run this project, you'll need to have the following installed:
 
-In the project directory, you can run:
+* Node.js: You can download and install the latest version of Node.js from their official website.
 
-### `npm start`
+## Installation
+To install the project, follow these steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Clone the repository to your local machine using Git.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+    `git clone https://github.com/your-username/launch-countdown-timer.git`
 
-### `npm test`
+2. Navigate to the project directory.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    `cd launch-countdown-timer`
 
-### `npm run build`
+3. Install the project dependencies using the npm package manager.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    'npm install'
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Running the project
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To run the project, use the following command in the terminal:
 
-### `npm run eject`
+    'npm start'
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+This command will start the development server and open a window in your default browser to display the application. The development server will run on port 3000, so make sure this port is available on your local machine.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Contributions
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+If you'd like to contribute to this project, do the following:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1. Fork this repository to your GitHub account.
 
-## Learn More
+2. Create a new branch for your contribution.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+3. Make your changes and commit your modifications.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+4. Push your branch to your repository on GitHub.
+
+5. Create a new pull request in this repository, describing your changes and explaining why they should be included in the project.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENCE.md) file for more information.
