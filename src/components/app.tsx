@@ -27,11 +27,50 @@ function App () {
     }, []);
 
     return (
-        <div className="Timer">
-            <span className="Timer-days">{timeRemaining.days}</span>
-            <span className="Timer-hours">{timeRemaining.hours}</span>
-            <span className="Timer-minutes">{timeRemaining.minutes}</span>
-            <span className="Timer-seconds">{timeRemaining.seconds}</span>
+        <div className="countdown">
+            <span className="days time-element">
+                <span className="top">0</span>
+                <span className="top-back">
+                    <span>0</span>
+                </span>
+                <span className="buttom">0</span>
+                <span className="buttom-back">
+                    <span>0</span>
+                </span>
+            </span>
+
+            <span className="hours time-element">
+                <span className="top">0</span>
+                <span className="top-back">
+                    <span>0</span>
+                </span>
+                <span className="buttom">0</span>
+                <span className="buttom-back">
+                    <span>0</span>
+                </span>
+            </span>
+
+            <span className="minutes time-element">
+                <span className="top">0</span>
+                <span className="top-back">
+                    <span>0</span>
+                </span>
+                <span className="buttom">0</span>
+                <span className="buttom-back">
+                    <span>0</span>
+                </span>
+            </span>
+
+            <span className="seconds time-element">
+                <span className="top">0</span>
+                <span className="top-back">
+                    <span>0</span>
+                </span>
+                <span className="buttom">0</span>
+                <span className="buttom-back">
+                    <span>0</span>
+                </span>
+            </span>
         </div>
     );
 }
